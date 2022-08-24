@@ -1,5 +1,5 @@
 ### Hi there 👋
-![DancinParrot's GitHub Stats](https://github-readme-stats-seven-nu-58.vercel.app/api?username=dancinparrot)
+![DancinParrot's GitHub Stats](https://github-readme-stats-seven-nu-58.vercel.app/api?username=dancinparrot&count_private=true)
 
 <!--
 **DancinParrot/DancinParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
