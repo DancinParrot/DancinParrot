@@ -1,6 +1,9 @@
-### Hi there 👋
+<h1 align="center"> Hello 👋 </h1>
+
+I'm a current Cybersecurity student, as well as an aspiring Security Researcher & SWE
 
 <!--
+
 **DancinParrot/DancinParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
