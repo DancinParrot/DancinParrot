@@ -1,6 +1,11 @@
-<h1 align="center"> Hello 👋 </h1>
+<p align="center">
+	<a href="https://github.com/DancinParrot">
+    <img src="https://raw.githubusercontent.com/DancinParrot/DancinParrot/main/assets/undraw_programming.png" height="175px"/>
+	</a>
+</p>
+<h3 align="center"> Hello 👋</h1>
+<p align="center">I'm a Cybersecurity student and an aspiring Security Researcher & SWE.</p>
 
-I'm a current Cybersecurity student, as well as an aspiring Security Researcher & SWE
 
 <!--
 
@@ -16,4 +21,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 👨‍💻 About Me
+
+- 🛠️ C / Nim / C# / Java / Python / SQL / Javascript / Dart / Kotlin / PHP / Rust
+- 💻 Arch Linux + ZSH / Windows 🪟
+
+## 🚧 Projects
+Right down below!
+
 -->
