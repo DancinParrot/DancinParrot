@@ -6,6 +6,9 @@
 <h3 align="center"> Hello 👋</h1>
 <p align="center">I'm a Cybersecurity student and an aspiring Security Researcher & SWE.</p>
 
+## 🚧 Dotfiles
+- 🛠️ [General](https://github.com/DancinParrot/dotfiles)
+- 💻 [AstroNvim](https://github.com/DancinParrot/astronvim-dotfiles)
 
 <!--
 
